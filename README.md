@@ -31,7 +31,7 @@ Four tables connected in a star schema:
 
 ## Screenshots
 
-_Screenshots coming soon_
+![Dashboard](dashboard.png)
 
 ## Author
 
