@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Subcategory,UnitCost
+P001,Smart Sensor Pro,IoT Devices,Sensors,45
+P002,EdgeConnect Hub,IoT Devices,Hubs,120
+P003,CloudLink Module,Networking,Modules,85
+P004,DataStream Router,Networking,Routers,210
+P005,SecureVault Firewall,Security,Firewalls,350
+P006,ThermoGuard Unit,IoT Devices,Sensors,65
+P007,NetSwitch 24P,Networking,Switches,180
+P008,CyberShield Endpoint,Security,Endpoint Protection,95
+P009,WaveLink Antenna,Networking,Antennas,55
+P010,SmartMeter X1,IoT Devices,Meters,140
